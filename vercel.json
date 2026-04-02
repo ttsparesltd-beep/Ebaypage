@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/api/ebay-token", "destination": "/api/ebay-token" }
-  ]
-}
